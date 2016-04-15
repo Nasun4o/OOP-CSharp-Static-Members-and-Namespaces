@@ -1,0 +1,8 @@
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeWorkStaticMembersAndNamespaces\DistanceCalculator\bin\Debug\DistanceCalculator.exe.config
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeWorkStaticMembersAndNamespaces\DistanceCalculator\bin\Debug\DistanceCalculator.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeWorkStaticMembersAndNamespaces\DistanceCalculator\bin\Debug\DistanceCalculator.pdb
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeWorkStaticMembersAndNamespaces\DistanceCalculator\obj\Debug\DistanceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeWorkStaticMembersAndNamespaces\DistanceCalculator\obj\Debug\DistanceCalculator.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeWorkStaticMembersAndNamespaces\DistanceCalculator\obj\Debug\DistanceCalculator.pdb
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkStaticMembersAndNamespaces\DistanceCalculator\bin\Debug\Point3D.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkStaticMembersAndNamespaces\DistanceCalculator\bin\Debug\Point3D.pdb
